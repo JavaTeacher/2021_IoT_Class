@@ -13,3 +13,8 @@
 * communication
 * multimedia
 * web
+
+print('Hello, World')
+```python
+print('Hello, World')
+```
